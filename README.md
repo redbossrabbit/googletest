@@ -132,4 +132,4 @@ that generates stub code for GoogleTest.
 Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on how to
 contribute to this project.
 
-Happy testing!
+Happy testing!🎉
